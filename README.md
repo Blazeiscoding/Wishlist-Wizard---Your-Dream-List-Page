@@ -2,7 +2,7 @@
 
 A modern, interactive wishlist application built with React that allows users to manage their desired items with categories, priorities, and search features.
 
-![Wishlist App Screenshot](public\WishListApp.png)
+![Wishlist App Screenshot](public/WishListApp.png)
 
 ## Features
 
